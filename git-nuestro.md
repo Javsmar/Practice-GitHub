@@ -1,4 +1,4 @@
-# Git nuestro
+# Git nuestro perdona nuestros bugs
 
 *Git* nuestro que estás en los repos
 Comprimidos sean tus *commits*
